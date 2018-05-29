@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
+Client Panel use Firebase to store the client details. So, first create a firebase app and add the firebase configuration in src/app/app.module.ts
+
+Run npm install from the terminal to install node modules.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
